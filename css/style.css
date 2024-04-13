@@ -638,10 +638,10 @@ body {
       margin-bottom: 34px;
       margin-top: 24px;
       z-index: 10;
-      background: url('img/main/arrow-blue-bottom.svg') no-repeat 5px 7px;
+      background: url('/img/main/arrow-blue-bottom.svg') no-repeat 5px 7px;
    }
    .cards-slider__button--close{
-      background: url('img/main/arrow-blue-top.svg') no-repeat 5px 7px;
+      background: url('/img/main/arrow-blue-top.svg') no-repeat 5px 7px;
       display: none;
    }
 }
