@@ -552,6 +552,7 @@ body {
 }
 .cards-slider__slide.swiper-slide{
    margin-top: 16px; 
+   margin-left: 16px;
    height: 72px;
    width: 240px;
 }
